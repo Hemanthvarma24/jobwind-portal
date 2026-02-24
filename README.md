@@ -69,6 +69,9 @@ npm run build
 npm run start
 ```
 
+deployment 
+https://jobwind-portal.vercel.app/
+
 
 
 
